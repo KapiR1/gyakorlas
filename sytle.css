@@ -10,6 +10,8 @@
         border:solid thin #cfcfcf;
         padding:10px;
         border-radius:3px;
+        position: relative;
+        padding-bottom: 10px;
     }
     
     .newsletter button{
@@ -19,8 +21,9 @@
         display:block;
         width:100%;
         height:30px;
+        margin-bottom: 10px;
      }
-     .newsletter input{
+     .newsletter input#email {
         display:block;
         width:100%;
         height:30px;

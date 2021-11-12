@@ -36,3 +36,13 @@
      .newsletter h3{
       margin-top:0;   
      }
+
+     .newsletter #terms {
+         position: relative;
+         top: 1px;
+    }   
+    .newsletter #closex {
+        position: absolute;
+        top: 0;
+        right: 4px;
+    }
